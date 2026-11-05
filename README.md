@@ -2,21 +2,21 @@
 
 <div align="center">
 
-### Estudante de Matemática Aplicada e Computacional | UNICAMP
+### Applied and Computational Mathematics Student | UNICAMP
 
 </div>
 
 ---
 
-## Sobre mim
+## About Me
 
-Estudante de Matemática Aplicada e Computacional na Universidade Estadual de Campinas (UNICAMP).
+Undergraduate student in Applied and Computational Mathematics at the University of Campinas (UNICAMP), Brazil.
 
-Interesso-me pela aplicação de métodos matemáticos e computacionais na resolução de problemas, com foco em otimização, pesquisa operacional, inteligência artificial, machine learning, ciência de dados e computação científica.
+I am interested in applying mathematical and computational methods to problem-solving, with a focus on optimization, operations research, artificial intelligence, machine learning, data science, and scientific computing.
 
 ---
 
-## Conhecimentos
+## Skills & Technologies
 
 Python | Julia | React | JavaScript | Node.js | RISC-V | Ruby | Cucumber | C | Git | JSON | PostgreSQL | Docker | Bash
 
@@ -28,11 +28,9 @@ Python | Julia | React | JavaScript | Node.js | RISC-V | Ruby | Cucumber | C | G
 
 ---
 
-## Contato
+## Contact
 
-Caso queria entrar em contato ficarei feliz em ajudar!!!
-
-Estou disponível através destes canais:
+Feel free to reach out through any of the following channels.
 
 <div align="center">
 
